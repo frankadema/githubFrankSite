@@ -17,4 +17,7 @@
 ### Final step to save you master stuff
 12. ```git add . / git commit -m 'masterStuffWhatYouMade' / git push ```
 
+### Code is written in the master-branch and can also be pushed in this way.
+### When your happy with the runnen localhost you con run "npm run deploy" to deploy the code to github.
+
 ###### gp-pages have other implementations (withrouter / hashrouter) etc.
