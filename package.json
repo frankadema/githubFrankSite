@@ -26,6 +26,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@material-ui/core": "3.9.2",
+    "@material-ui/icons": "3.0.2",
     "gh-pages": "2.0.1"
   }
 }
