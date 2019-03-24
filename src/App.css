@@ -1,33 +1,89 @@
-.App {
-  text-align: center;
+body{
+  background-color: rgb(241, 241, 241);
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.root {
+  width: '100%';
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.header {
+  position: "fixed" !important;
+  background-color: rgb(247, 101, 4) !important;
+
 }
 
-.App-link {
-  color: #61dafb;
+.grow {
+  flex-grow: 1;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.menuButton {
+  color: inherit !important; 
+  margin-left: -12;
+  margin-right: 20;
+}
+
+.title {
+  display: 'none';
+  color: rgb(255, 255, 255) !important;
+  font-size: 1rem !important;
+  
+}
+
+.content {
+  padding: 85px 20px 0 20px;
+}
+
+.grid {
+  padding: 5px !important;
+  box-sizing: border-box !important;
+}
+
+.center {
+  text-align: center !important;
+}
+
+.list {
+  width: 450px !important;
+}
+
+.fulllist {
+  width: auto !important;
+}
+
+.paperTitle {
+  color: rgb(0, 0, 0) !important;
+  font-size: 1.5rem !important;
+  border-bottom: 2.5px solid rgb(128, 128, 128) !important;
+  margin: 0 0 10px 0 !important;
+  font-style: italic !important;
+}
+
+.paperConent {
+  color: rgb(0, 0, 0) !important;
+  font-size: 0.90rem !important;
+  margin: 0 0 20px 0 !important;
+  text-align: justify !important;
+}
+
+.button {
+  margin: 10px 0 0 0 !important;
+  background-color: rgb(29, 118, 208) !important;
+  color: rgb(254, 254, 254) !important;
+}
+
+.buttonForm {
+  margin: 10px 0 0 0 !important;
+  background-color: rgb(247, 101, 4) !important;
+  color: rgb(254, 254, 254) !important;
+}
+
+.formContainer {
+  margin: 0 0 0 10px !important;
+  display: 'flex' !important;
+  flex-wrap: 'wrap' !important;
+}
+
+.icons {
+  /* background-color:blue; */
+  /* align-content: flex-end !important; */
 }
