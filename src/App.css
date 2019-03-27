@@ -26,7 +26,6 @@ body{
   display: 'none';
   color: rgb(255, 255, 255) !important;
   font-size: 1rem !important;
-  
 }
 
 .content {
@@ -38,10 +37,32 @@ body{
   box-sizing: border-box !important;
 }
 
+.grid2 {
+  padding: 5px !important;
+  box-sizing: border-box !important;
+  background-color: rgba(255, 166, 0, 0.089) !important;
+  width: 100% !important;
+}
+
 .center {
   text-align: center !important;
 }
 
+.listHomepage {
+  padding: 0 0 0 15px !important;
+}
+.experienceHomepage {
+  padding: 75px 0 0 150px !important;
+  height: 250px !important;
+  width: 250px !important;
+}
+
+.avatar {
+  margin: 0 auto !important;
+  /* height: 50vh !important; */
+  height: 350px !important;
+  width: 350px !important;
+}
 .list {
   width: 450px !important;
 }
@@ -54,7 +75,7 @@ body{
   color: rgb(0, 0, 0) !important;
   font-size: 1.5rem !important;
   border-bottom: 2.5px solid rgb(128, 128, 128) !important;
-  margin: 0 0 10px 0 !important;
+  margin: 0 0 8px 0 !important;
   font-style: italic !important;
 }
 
@@ -66,9 +87,11 @@ body{
 }
 
 .button {
-  margin: 10px 0 0 0 !important;
+  margin: 5px 0 0 0 !important;
   background-color: rgb(29, 118, 208) !important;
   color: rgb(254, 254, 254) !important;
+  width: 50vw !important;
+  margin: 0 0 0 50px !important
 }
 
 .buttonForm {
@@ -83,7 +106,6 @@ body{
   flex-wrap: 'wrap' !important;
 }
 
-.icons {
-  /* background-color:blue; */
-  /* align-content: flex-end !important; */
+.listView {
+  padding: 0 0 15px 0 !important;
 }
