@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/githubFrankSite/static/js/runtime~main.9921fad6.js"
   },
   {
-    "revision": "c655326723dc1d8c8023",
+    "revision": "4c521b9ca822a111d04a",
     "url": "/githubFrankSite/static/js/main.c9ad71c9.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/githubFrankSite/static/js/2.2283b0b8.chunk.js"
   },
   {
-    "revision": "c655326723dc1d8c8023",
-    "url": "/githubFrankSite/static/css/main.9802f435.chunk.css"
+    "revision": "4c521b9ca822a111d04a",
+    "url": "/githubFrankSite/static/css/main.4a83a961.chunk.css"
   },
   {
-    "revision": "a538ad19fec0038c801fc3506b04d566",
+    "revision": "5918905bd8c4af6bf0ece6f10aac949e",
     "url": "/githubFrankSite/index.html"
   }
 ];
